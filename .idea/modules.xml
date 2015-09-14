@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidSlidingUpPanelSample1.iml" filepath="$PROJECT_DIR$/AndroidSlidingUpPanelSample1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidSlidingUpPanelLibrary/androidSlidingUpPanelLibrary.iml" filepath="$PROJECT_DIR$/androidSlidingUpPanelLibrary/androidSlidingUpPanelLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidSlidingUpPanelSample/androidSlidingUpPanelSample.iml" filepath="$PROJECT_DIR$/androidSlidingUpPanelSample/androidSlidingUpPanelSample.iml" />
+    </modules>
+  </component>
+</project>
